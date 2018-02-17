@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#FFFFFFC4",
+        "font" : "SF Mono",
+        "color" : "#00000065"
+      },
+      "shortcut" : {
+        "size" : 15,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "SF Mono",
+        "color" : "#626768E4"
+      },
+      "backgroundSelected" : "#626768E4",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "SF Mono",
+        "color" : "#000000E5"
+      },
+      "iconPaddingHorizontal" : 5,
+      "paddingVertical" : 5,
+      "iconSize" : 45
+    },
+    "search" : {
+      "paddingVertical" : 5,
+      "background" : "#0000001A",
+      "spacing" : 10,
+      "text" : {
+        "size" : 26,
+        "colorSelected" : "#000000FF",
+        "font" : "SF Mono",
+        "color" : "#000000FF"
+      },
+      "backgroundSelected" : "#B2D7FFFF"
+    },
+    "window" : {
+      "color" : "#FFFFFFCC",
+      "paddingHorizontal" : 10,
+      "width" : 550,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 10,
+      "roundness" : 5,
+      "paddingVertical" : 10
+    },
+    "credit" : "James Hill-Khurana",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#626768E4",
+      "thickness" : 4
+    },
+    "name" : "Alfred Minimalist"
+  }
+}
