@@ -7,6 +7,6 @@ Ensure that you have enabled the San Francisco Mono before installing this theme
 
 ---
 ### Copyright and Licensing
-The San Francisco font used in this theme is the property of Apple, Inc. All other assets are property of their respective owners.
+The San Francisco font used in this theme is the property of Apple, Inc. All other assets are the property of their respective owners.
 
 
