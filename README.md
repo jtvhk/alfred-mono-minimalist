@@ -1,5 +1,5 @@
 # Alfred Mono Minimalist
-A simple monochrome Alfred theme using Apple's San Francisco Monospace font.
+A simple monochrome Alfred theme using Apple's San Francisco Monospace font. This theme is compatible with Alfred 4.
 
 ![Theme Icon](https://github.com/jtvhk/alfred-mono-minimalist/raw/master/Alfred-Theme.png)
 
